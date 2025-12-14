@@ -33,5 +33,3 @@ Proyek ini terdiri dari 4 langkah utama:
 1. **Langkah A & C:** Copy kode ke [Google Earth Engine Code Editor](https://code.earthengine.google.com/). Pastikan asset Shapefile ROI sudah diimport.
 2. **Langkah B & D:** Buka file `.ipynb` menggunakan Google Colab atau Jupyter Notebook. Sesuaikan path Google Drive (`GEE_EXPORT_FOLDER`) dengan lokasi data Anda.
 
-## 📄 Lisensi
-Penelitian Akademik - Universitas Gadjah Mada.
